@@ -1,0 +1,16 @@
+namespace Assembly_CSharp_firstpass.Assets.App.Scripts.Utilities
+{
+fileFormatVersion: 2
+guid: b5564e7f7860c7b4cbf50f4551a3c568
+timeCreated: 1511035366
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant:
+}
